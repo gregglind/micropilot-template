@@ -26,7 +26,7 @@
   ],
   "volo": {
     "dependencies": {
-      "packages/micropilot": "github:gregglind/micropilot/v0.8"
+      "packages/micropilot": "github:gregglind/micropilot/v0.9"
     }
   }
 }
